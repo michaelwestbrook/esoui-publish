@@ -1,0 +1,19 @@
+{
+  "name": "esoui-publish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwestbrook/esoui-publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelwestbrook/esoui-publish/issues"
+  },
+  "homepage": "https://github.com/michaelwestbrook/esoui-publish#readme"
+}
