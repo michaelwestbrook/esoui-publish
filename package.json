@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/michaelwestbrook/esoui-publish/issues"
   },
-  "homepage": "https://github.com/michaelwestbrook/esoui-publish#readme"
+  "homepage": "https://github.com/michaelwestbrook/esoui-publish#readme",
+  "dependencies": {
+    "form-data": "^2.3.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
 }
